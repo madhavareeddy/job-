@@ -1,0 +1,57 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(-20deg, #6d95b1 0%, #b17cbf 100%);
+  }
+  
+  header {
+    background: radial-gradient(circle at 85.4% 50.8%, rgb(14, 72, 222) 0%, rgb(3, 22, 65) 74.2%);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+  
+  
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 50px;
+    color: rgb(195, 111, 86);
+  }
+  
+  #searchInput {
+    padding: 10px;
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: linear-gradient(109.6deg, rgb(83, 231, 173) 11.2%, rgb(67, 209, 222) 100.2%);
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  section {
+    padding: 50px;
+    background: radial-gradient(circle at 50.4% 50.5%, rgb(251, 32, 86) 0%, rgb(135, 2, 35) 90%);
+  }
+  
+  .job {
+    border: 4px solid #000000;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: linear-gradient(110.1deg, rgb(165, 133, 224) 2.9%, rgb(86, 169, 180) 90.3%);
+  }
+  
+  .job h2 {
+    margin-top: 0;
+    font-size: 25px;
+  }
+  
+  .job p {
+    margin: 5px 0;
+    font-size: 18px;
+  }
+  
